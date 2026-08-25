@@ -1,0 +1,3 @@
+TruncatedSVD    (used to handle sparse mtrix produced by tfidf [but use it only if you are using logistic reg, or SVM. Big models like Random Forest and XGBoost can handle sparse matrix])
+
+
